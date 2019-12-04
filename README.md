@@ -1,16 +1,15 @@
-# bip_card_info
+# Bip Card Info App
+BipCard Info App developed with flutter.
 
-A new Flutter project.
+![Alt text](/app-main.png?raw=true)![Alt text](/app-detail.png?raw=true)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Proyecto desarrollado con la finalidad de obtener la información de una tarjeta bip en particular. 
+Para obtener dicha información, se realiza scrapping a la pagina  http://pocae.tstgo.cl/PortalCAE-WAR-MODULE/  
 
-A few resources to get you started if this is your first Flutter project:
+### TODO
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [ ] Guardar información consultada (uso offline)
+* [ ] Guardar tarjeta
+* [ ] Alguno que otro detalle estético
