@@ -1,7 +1,7 @@
 # Bip Card Info App
 BipCard Info App developed with flutter.
 
-![Alt text](/app-main.png?raw=true)![Alt text](/app-detail.png?raw=true)
+![Alt text](/app-main.PNG?raw=true)![Alt text](/app-detail.PNG?raw=true)
 
 ## Getting Started
 
