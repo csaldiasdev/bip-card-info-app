@@ -4,7 +4,7 @@ description: Bip Card Info Mobile App.
 version: 0.0.1+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.2.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -16,6 +16,7 @@ dependencies:
   equatable: ^1.0.1
   flutter_spinkit: "^4.1.0"
   flutter_staggered_animations: "^0.1.2"
+  flutter_barcode_scanner: ^0.1.7
 
   cupertino_icons: ^0.1.2
 
